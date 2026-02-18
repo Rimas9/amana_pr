@@ -16,5 +16,5 @@ A modern Flutter weather application that displays real-time weather data using 
 - Provider (State Management)
 
 ## Demo Video
-https://github.com/Rimas9/amana_pr/blob/master/assets/weather_app.mp4.mp4
+https://github.com/Rimas9/amana_pr/blob/master/assets/weather_app.mp4
 
